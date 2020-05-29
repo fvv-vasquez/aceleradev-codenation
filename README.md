@@ -2,6 +2,6 @@
 
 Desafios aplicados durante a aceleração.
 
-# Desatios
+# Desafios
 
-* [Sequência de Fibonnacci](java-0/README.md)
+* [Sequência de Fibonnacci](java-0)
